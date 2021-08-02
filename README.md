@@ -1,6 +1,6 @@
 # Terrachallange
 
-This is a challnage to test your knowledge of Terraform and supporting Terraform in various environments. There are a series of checkpoints that should be used as save points within the challange. Each checkpoint builds on the previous checkpoint, so make sure you complete each checkpoint in order.
+This is a challenge to test your knowledge of Terraform and supporting Terraform in various environments. There are a series of checkpoints that should be used as save points within the challange. Each checkpoint builds on the previous checkpoint, so make sure you complete each checkpoint in order.
 
 ## Getting Started
 
